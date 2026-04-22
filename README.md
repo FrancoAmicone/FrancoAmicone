@@ -8,7 +8,6 @@ Right now im intrested in going deeper into cloud-native tooling and picking up 
 
 On the side I build frontend projects, mostly to scratch an itch or try something out, learning in the process.
 
-On the side I build frontend projects, mostly to scratch an itch or try something out, learning in the process.
 
 ---
 
